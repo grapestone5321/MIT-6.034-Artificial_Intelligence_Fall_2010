@@ -46,6 +46,9 @@ Chapter 3, pp. 53–60.
 ### Lecture 6: Search: Games, Minimax, and Alpha-Beta
 
 
+
+## Learning
+
 ### Lecture 17: Learning: Boosting
 
 LECTURE VIDEOS:
