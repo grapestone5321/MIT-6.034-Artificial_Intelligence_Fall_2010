@@ -19,6 +19,15 @@ This course introduces students to the basic knowledge representation, problem s
 
 Upon completion of 6.034, students should be able to develop intelligent systems by assembling solutions to concrete computational problems; understand the role of knowledge representation, problem solving, and learning in intelligent-system engineering; and appreciate the role of problem solving, vision, and language in understanding human intelligence from a computational perspective.
 
+## 1. Introduction
+
+### Lecture 1: Introduction and Scope
+
+## 2. Reasoning
+
+
+### Lecture 2: Reasoning: Goal Trees and Problem Solving
+
 ### Lecture 3: Reasoning: Goal Trees and Rule-Based Expert Systems
 
 LECTURE VIDEOS:
@@ -37,7 +46,7 @@ READINGS:
 Winston, Patrick Henry. Artificial Intelligence. 3rd ed. Addison-Wesley, 1992. ISBN: 9780201533774.:
 Chapter 3, pp. 53–60.
 
-## Search
+## 3. Search
 
 ### Lecture 4: Search: Depth-First, Hill Climbing, Beam
 
@@ -45,9 +54,11 @@ Chapter 3, pp. 53–60.
 
 ### Lecture 6: Search: Games, Minimax, and Alpha-Beta
 
+## 4. Constraints
 
+### Lecture 7: Constraints: Interpreting Line Drawings
 
-## Learning
+## 5. Learning
 
 ### Lecture 17: Learning: Boosting
 
@@ -78,3 +89,14 @@ Brooks, Rodney. "Intelligence Without Representation." Artificial Intelligence 4
 
 Winston, Patrick Henry.:
 http://courses.csail.mit.edu/6.034f/ai3/Genesis.pdf
+
+## 6. Representations
+
+### Lecture 18: Representations: Classes, Trajectories, Transitions
+
+## 7. Architectures
+
+### Lecture 19: Architectures: GPS, SOAR, Subsumption, Society of Mind
+
+
+
