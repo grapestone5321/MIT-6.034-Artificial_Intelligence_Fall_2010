@@ -19,6 +19,26 @@ This course introduces students to the basic knowledge representation, problem s
 
 Upon completion of 6.034, students should be able to develop intelligent systems by assembling solutions to concrete computational problems; understand the role of knowledge representation, problem solving, and learning in intelligent-system engineering; and appreciate the role of problem solving, vision, and language in understanding human intelligence from a computational perspective.
 
+## Lecture 3: Reasoning: Goal Trees and Rule-Based Expert Systems
+
+LECTURE VIDEOS:
+
+https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/lecture-3-reasoning-goal-trees-and-rule-based-expert-systems/
+
+Description: 
+
+We consider a block-stacking program, which can answer questions about its own behavior, and then identify an animal given a list of its characteristics. 
+
+Finally, we discuss how to extract knowledge from an expert, using the example of bagging groceries.
+
+
+READINGS:
+
+Winston, Patrick Henry. Artificial Intelligence. 3rd ed. Addison-Wesley, 1992. ISBN: 9780201533774.:
+Chapter 3, pp. 53–60.
+
+
+
 
 ## Lecture 17: Learning: Boosting
 
