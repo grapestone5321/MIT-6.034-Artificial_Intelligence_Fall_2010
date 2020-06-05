@@ -1,5 +1,7 @@
 # MIT-Artificial_Intelligence
-MIT-Artificial_Intelligence
+MIT 6.034 Artificial Intelligence, Fall 2010
+
+Last updated on Apr 20, 2016
 
 Instructor(s):
 Prof. Patrick Henry Winston
