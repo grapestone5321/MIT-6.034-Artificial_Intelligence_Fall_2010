@@ -19,6 +19,10 @@ This course introduces students to the basic knowledge representation, problem s
 
 Upon completion of 6.034, students should be able to develop intelligent systems by assembling solutions to concrete computational problems; understand the role of knowledge representation, problem solving, and learning in intelligent-system engineering; and appreciate the role of problem solving, vision, and language in understanding human intelligence from a computational perspective.
 
+### Course textbook: Winston, Patrick Henry. Artificial Intelligence. 3rd ed. Addison-Wesley, 1992.
+
+https://courses.csail.mit.edu/6.034f/ai3/rest.pdf
+
 ## 1. Introduction
 
 ### Lecture 1: Introduction and Scope
