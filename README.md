@@ -22,6 +22,14 @@ Upon completion of 6.034, students should be able to develop intelligent systems
 
 ## Lecture 17: Learning: Boosting
 
+Description: 
+
+Can multiple weak classifiers be used to make a strong one? 
+
+We examine the boosting algorithm, which adjusts the weight of each classifier, and work through the math. 
+
+We end with how boosting doesn't seem to overfit, and mention some applications.
+
 https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/lecture-17-learning-boosting/
 
 https://www.youtube.com/watch?time_continue=8&v=UHBmv7qCey4
