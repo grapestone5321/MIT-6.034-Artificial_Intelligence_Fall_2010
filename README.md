@@ -19,7 +19,7 @@ This course introduces students to the basic knowledge representation, problem s
 
 Upon completion of 6.034, students should be able to develop intelligent systems by assembling solutions to concrete computational problems; understand the role of knowledge representation, problem solving, and learning in intelligent-system engineering; and appreciate the role of problem solving, vision, and language in understanding human intelligence from a computational perspective.
 
-## Lecture 3: Reasoning: Goal Trees and Rule-Based Expert Systems
+### Lecture 3: Reasoning: Goal Trees and Rule-Based Expert Systems
 
 LECTURE VIDEOS:
 
@@ -37,10 +37,16 @@ READINGS:
 Winston, Patrick Henry. Artificial Intelligence. 3rd ed. Addison-Wesley, 1992. ISBN: 9780201533774.:
 Chapter 3, pp. 53–60.
 
+## Search
+
+### Lecture 4: Search: Depth-First, Hill Climbing, Beam
+
+### Lecture 5: Search: Optimal, Branch and Bound, A*
+
+### Lecture 6: Search: Games, Minimax, and Alpha-Beta
 
 
-
-## Lecture 17: Learning: Boosting
+### Lecture 17: Learning: Boosting
 
 LECTURE VIDEOS:
 
