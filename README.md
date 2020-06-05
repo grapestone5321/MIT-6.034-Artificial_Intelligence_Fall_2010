@@ -99,4 +99,33 @@ http://courses.csail.mit.edu/6.034f/ai3/Genesis.pdf
 ### Lecture 19: Architectures: GPS, SOAR, Subsumption, Society of Mind
 
 
+# Tutorials
+
+Tutorial notes are courtesy of Yuan Shen, and are used with permission.
+
+## Tutorial 1: Rule-based systems, search
+
+https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/tutorials/MIT6_034F10_tutor01.pdf
+
+## Tutorial 2: Games, constraint satisfaction problems
+
+https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/tutorials/MIT6_034F10_tutor02.pdf
+
+## Tutorial 3: K-nearest neighbors, decision trees, neural nets
+
+
+https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/tutorials/MIT6_034F10_tutor03.pdf
+
+## Tutorial 4: Top-down approach to neural nets
+
+https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/tutorials/MIT6_034F10_tutor04.pdf
+
+## Tutorial 5: Support vector machines, boosting
+
+https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/tutorials/MIT6_034F10_tutor05.pdf
+
+## Tutorial 6: Probability, Bayes nets, naïve Bayes, model selection
+
+https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/tutorials/MIT6_034F10_tutor06.pdf
+
 
