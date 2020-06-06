@@ -73,6 +73,10 @@ Chapter 3, pp. 53–60.
 
 ### Lecture 10: Introduction to Learning, Nearest Neighbors
 
+Winston, Patrick Henry. Artificial Intelligence. 3rd ed. Addison-Wesley, 1992. ISBN: 9780201533774.:
+
+Chapter 19
+
 ### Lecture 11: Learning: Identification Trees, Disorder
 
 
