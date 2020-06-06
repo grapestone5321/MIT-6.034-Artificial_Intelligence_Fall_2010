@@ -62,7 +62,19 @@ Chapter 3, pp. 53–60.
 
 ### Lecture 7: Constraints: Interpreting Line Drawings
 
+### Lecture 8: Constraints: Search, Domain Reduction
+
+### Lecture 9: Constraints: Visual Object Recognition
+
 ## 5. Learning
+
+
+### Lecture 10: Introduction to Learning, Nearest Neighbors
+
+### Lecture 11: Learning: Identification Trees, Disorder
+
+
+
 
 ### Lecture 17: Learning: Boosting
 
