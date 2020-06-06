@@ -3,6 +3,8 @@ MIT 6.034 Artificial Intelligence, Fall 2010
 
 Last updated on Apr 20, 2016
 
+https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/
+
 Instructor(s):
 Prof. Patrick Henry Winston
 
