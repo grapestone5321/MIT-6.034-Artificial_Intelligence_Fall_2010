@@ -36,6 +36,11 @@ https://courses.csail.mit.edu/6.034f/ai3/rest.pdf
 
 ### Lecture 3: Reasoning: Goal Trees and Rule-Based Expert Systems
 
+Jan 10, 2014
+
+https://www.youtube.com/watch?time_continue=16&v=leXa7EKUPFk
+
+
 LECTURE VIDEOS:
 
 https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/lecture-3-reasoning-goal-trees-and-rule-based-expert-systems/
