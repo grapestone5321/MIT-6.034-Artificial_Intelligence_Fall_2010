@@ -27,6 +27,10 @@ https://courses.csail.mit.edu/6.034f/ai3/rest.pdf
 
 ## 1. Introduction
 
+Jan 10, 2014
+
+https://www.youtube.com/watch?time_continue=1367&v=TjZBTDzGeGg
+
 ### Lecture 1: Introduction and Scope
 
 ## 2. Reasoning
