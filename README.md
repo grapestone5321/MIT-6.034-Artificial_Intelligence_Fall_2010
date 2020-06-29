@@ -126,6 +126,48 @@ http://courses.csail.mit.edu/6.034f/ai3/Genesis.pdf
 ### Lecture 19: Architectures: GPS, SOAR, Subsumption, Society of Mind
 
 
+### Lecture 21: Probabilistic Inference I
+
+### Lecture 22: Probabilistic Inference II
+
+### Lecture 23: Model Merging, Cross-Modal Coupling, Course Summary
+
+## Mega-Recitation
+
+### Mega-Recitation 1: Rule-Based Systems
+
+### Mega-Recitation 2: Basic Search, Optimal Search
+
+### Mega-Recitation 3: Games, Minimax, Alpha-Beta
+
+### Mega-Recitation 4: Neural Nets
+
+### Mega-Recitation 5: Support Vector Machines
+
+### Mega-Recitation 6: Boosting
+
+### Mega-Recitation 7: Near Misses, Arch Learning
+
+Jan 10, 2014
+
+https://www.youtube.com/watch?time_continue=3&v=J-ocRQCjcwE
+
+MIT 6.034 Artificial Intelligence, Fall 2010
+
+View the complete course: http://ocw.mit.edu/6-034F10
+
+Instructor: Mark Seifter
+
+This mega-recitation covers a question from the Fall 2007 final exam, in which we teach a robot how to identify a table lamp.  
+
+Given a starting model, we identify a heuristic and adjust the model for each example; examples can be hits or near misses.
+
+License: Creative Commons BY-NC-SA
+
+More information at http://ocw.mit.edu/terms
+
+More courses at http://ocw.mit.edu
+
 ## Tutorials
 
 Tutorial notes are courtesy of Yuan Shen, and are used with permission.
