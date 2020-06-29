@@ -1,4 +1,4 @@
-# MIT-Artificial_Intelligence
+# MIT-6.034_Artificial_Intelligence
 MIT 6.034 Artificial Intelligence, Fall 2010
 
 Last updated on Apr 20, 2016
