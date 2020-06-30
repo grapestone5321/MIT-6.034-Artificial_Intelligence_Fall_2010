@@ -25,6 +25,11 @@ Upon completion of 6.034, students should be able to develop intelligent systems
 
 https://courses.csail.mit.edu/6.034f/ai3/rest.pdf
 
+
+## Lectures
+
+https://www.youtube.com/playlist?list=PLUl4u3cNGP63gFHB6xb-kVBiQHYe_4hSi
+
 ## 1. Introduction
 
 Jan 10, 2014
