@@ -46,9 +46,16 @@ https://www.youtube.com/watch?time_continue=1367&v=TjZBTDzGeGg
 
 ### Lecture 2: Reasoning: Goal Trees and Problem Solving
 
+Jan 11, 2014
+
+https://www.youtube.com/watch?v=PNKj529yY5c&list=PLUl4u3cNGP63gFHB6xb-kVBiQHYe_4hSi&index=3&t=617s
+
+
 ### Lecture 3: Reasoning: Goal Trees and Rule-Based Expert Systems
 
-Jan 10, 2014
+Jan 11, 2014
+
+https://www.youtube.com/watch?v=leXa7EKUPFk&list=PLUl4u3cNGP63gFHB6xb-kVBiQHYe_4hSi&index=3
 
 https://www.youtube.com/watch?time_continue=16&v=leXa7EKUPFk
 
