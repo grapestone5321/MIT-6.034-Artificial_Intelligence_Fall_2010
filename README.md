@@ -32,11 +32,14 @@ https://www.youtube.com/playlist?list=PLUl4u3cNGP63gFHB6xb-kVBiQHYe_4hSi
 
 ## 1. Introduction
 
+
+### Lecture 1: Introduction and Scope
+
 Jan 10, 2014
 
 https://www.youtube.com/watch?time_continue=1367&v=TjZBTDzGeGg
 
-### Lecture 1: Introduction and Scope
+
 
 ## 2. Reasoning
 
