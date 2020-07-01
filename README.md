@@ -80,6 +80,10 @@ Chapter 3, pp. 53–60.
 
 ### Lecture 4: Search: Depth-First, Hill Climbing, Beam
 
+Jan 11, 2014
+
+https://www.youtube.com/watch?v=j1H3jAAGlEA&list=PLUl4u3cNGP63gFHB6xb-kVBiQHYe_4hSi&index=5&t=3s
+
 ### Lecture 5: Search: Optimal, Branch and Bound, A*
 
 ### Lecture 6: Search: Games, Minimax, and Alpha-Beta
